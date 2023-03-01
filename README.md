@@ -367,7 +367,7 @@ Like a prefix, variable names can be made singular or plural depending on whethe
 ```js
 /* Bad */
 const friends = 'Lina'
-const friend = ['Bob', 'Masha', 'Tanya']
+const friend = ['Lina', 'Masha', 'Tanya']
 
 /* Good */
 const friend = 'Bon'
